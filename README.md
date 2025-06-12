@@ -12,12 +12,14 @@
   5) 승률 컬럼에 대한 3가지 유형 분류 및 점수 합산
   6) 분류 모델 구성 및 학습
 
-1. ![image](https://github.com/user-attachments/assets/5c1e4767-cdf6-4951-9b1b-412c4a5f2b97)
-2. ![image](https://github.com/user-attachments/assets/88bad797-dcda-4b3f-8c39-6fc93027f156)
-3. ![image](https://github.com/user-attachments/assets/ee48457b-5078-4bca-80d0-31001e8a8a86)
-4. ![image](https://github.com/user-attachments/assets/4ce0f82b-23ed-4208-940c-fcf570a034d3)
-5. ![image](https://github.com/user-attachments/assets/3e400209-f009-4d14-b228-be01ee3536be)
-6. ![image](https://github.com/user-attachments/assets/204df9dd-a053-4d99-8877-d45b1d10b75d)
+![image](https://github.com/user-attachments/assets/1385ff3f-e496-4bd0-ae10-0d32f99e127a)
+
+![image](https://github.com/user-attachments/assets/bbdf691e-8eec-4655-a09b-46710a265918)
+
+![image](https://github.com/user-attachments/assets/e4d99d4a-d44a-4ea3-9546-84abbd8b7a21)
+
+![image](https://github.com/user-attachments/assets/53e018e0-7843-46da-8e40-5cc034f99093)
+
 
 
 
